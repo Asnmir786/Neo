@@ -27,8 +27,6 @@
     end
   end	 
   end
-
-
   #arr=["ngg","dyd","njhj","jhkjh","nizams"]
   #c=0
   # arr.each do |i|
